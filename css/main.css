@@ -22,13 +22,13 @@ body {
 }
 
 .topnav a:hover:not(#github) {
-    background-color: #ddd;
-    color: black;
+    background-color: rgba(145, 185, 51, 0.925);
+    color: white;
 }
 
 .topnav a:active:not(#github) {
-    background-color: #04aa6d;
-    color: white;
+    background-color: white;
+    color: rgba(145, 185, 51, 0.925);
 }
 
 .topnav a#github {
