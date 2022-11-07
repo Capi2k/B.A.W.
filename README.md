@@ -8,6 +8,9 @@ Idk honestly, whatever I want. I guess I do want to implement some sort of datab
 To implement the deepl-Api would be really interesting too and things that come to mind ¯\_(ツ)_/¯
 
 ### What to implement
--> MongoDb
--> Deepl
+-> MongoDb  
+-> Deepl  
 ->
+
+Like a wise man once said:
+>I should go to sleep
